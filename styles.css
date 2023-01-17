@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+    color:white;
+    font-family: 'Papyrus';
+    height: 800px;
+    }
+    
+    #instruction {
+        font-size:20px;
+        text-align: left;  
+    }
+    
+    #header {
+        text-align: left;
+        position: relative;
+        max-width: 80%;
+    }
+    
+    img {
+        position: absolute;
+        top: 8px;
+        right:8px;
+        max-width: 150px;
+        background-color: black;
+    }
+    
+    #quoteDisplay {
+        color:white;
+        float: left;
+        font-size: 26px;
+        max-width: 80%;        
+    }
